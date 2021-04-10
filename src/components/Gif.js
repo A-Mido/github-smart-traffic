@@ -7,7 +7,7 @@ import { Button } from './Button'
 function Gif() {
     return (
         <div className='gif-container'>
-            <video src='/videos/video-2.mp4' autoPlay loop muted />
+            <video src='https://github.com/A-Mido/github-smart-traffic/blob/master/public/videos/video-2.mp4' autoPlay loop muted />
             <h1> WELCOME TO SMART TRRAFIC</h1>
             <h3>Drive Safely</h3>
             <div className='gif-btns'>
