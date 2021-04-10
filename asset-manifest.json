@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github-smart-traffic/static/css/main.659b4dbd.chunk.css",
-    "main.js": "/github-smart-traffic/static/js/main.5831aaa9.chunk.js",
-    "main.js.map": "/github-smart-traffic/static/js/main.5831aaa9.chunk.js.map",
+    "main.css": "/github-smart-traffic/static/css/main.3a519243.chunk.css",
+    "main.js": "/github-smart-traffic/static/js/main.88490a46.chunk.js",
+    "main.js.map": "/github-smart-traffic/static/js/main.88490a46.chunk.js.map",
     "runtime-main.js": "/github-smart-traffic/static/js/runtime-main.e33b7805.js",
     "runtime-main.js.map": "/github-smart-traffic/static/js/runtime-main.e33b7805.js.map",
     "static/js/2.c780275d.chunk.js": "/github-smart-traffic/static/js/2.c780275d.chunk.js",
     "static/js/2.c780275d.chunk.js.map": "/github-smart-traffic/static/js/2.c780275d.chunk.js.map",
     "index.html": "/github-smart-traffic/index.html",
-    "static/css/main.659b4dbd.chunk.css.map": "/github-smart-traffic/static/css/main.659b4dbd.chunk.css.map",
+    "static/css/main.3a519243.chunk.css.map": "/github-smart-traffic/static/css/main.3a519243.chunk.css.map",
     "static/js/2.c780275d.chunk.js.LICENSE.txt": "/github-smart-traffic/static/js/2.c780275d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e33b7805.js",
     "static/js/2.c780275d.chunk.js",
-    "static/css/main.659b4dbd.chunk.css",
-    "static/js/main.5831aaa9.chunk.js"
+    "static/css/main.3a519243.chunk.css",
+    "static/js/main.88490a46.chunk.js"
   ]
 }
